@@ -1,0 +1,106 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    padding: 40px;
+}
+
+.main{
+    background-color: rgb(255, 255, 255);
+    padding: 102px 0 107px;
+}
+
+.flex{
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: rgb(255, 255, 255);
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.project_pretitle{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: rgba(0, 0, 0, 1);
+    margin-bottom: 19px;
+}
+
+.project_title{
+    font-weight: 700;
+    Font-size: 45px;
+    line-height: 55px;
+    color: rgba(0, 0, 0, 1);
+    margin-bottom: 29px;
+}
+
+.project_text{
+    width: 525px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgba(89, 89, 89, 1);
+}
+
+.pretitle{
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 8px;
+}
+
+.list{
+    font-weight: 700;
+}
+
+.link{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgba(89, 89, 89, 1);
+}
+
+.list-link{
+    font-weight: 400;
+    color: rgba(0, 95, 255, 1);
+}
+
+.contact{
+    background-color: rgba(224, 235, 254, 1);
+    margin-right: 88px;
+}
+
+.about_pretitle{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+}
+
+.about_title{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.about_title-change{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: rgba(109, 155, 245, 1);
+}
+
+.about_title-below{
+    color: rgba(168, 168, 168, 1);
+    font-size: 12px;
+    line-height: 15px;
+    margin-top: 11px;
+}
+
+.about_text{
+    font-size: 14px;
+    line-height: 24px;
+    color: rgba(89, 89, 89, 1);
+}
+
+
+
+.contact-margin{
+    margin-left: 40px;
+}
